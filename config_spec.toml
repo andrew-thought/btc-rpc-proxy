@@ -55,7 +55,7 @@ doc = "The address of the real bitcoind."
 [[param]]
 name = "bitcoind_port"
 type = "u16"
-default = "8332"
+default = "10617"
 doc = "The port of the real bitcoind."
 
 [[param]]
